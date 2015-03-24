@@ -16,10 +16,6 @@ header ul
   display: inline-block ;
   vertical-align: middle;
 }
-a
-{
-  text-decoration: none;
-}
 .fl
 {
   float: left;
@@ -132,6 +128,7 @@ div.donate
   height: 26px;
   text-align: center;
   line-height: 26px;
+  text-decoration: none;
 }
 section.welcome
 {
