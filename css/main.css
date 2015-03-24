@@ -1,0 +1,315 @@
+body
+{
+  background: #8ca7c9;
+}
+header
+{
+  background: #Fcfaf6;
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 1119px;
+  height: 70px;
+}
+header div,
+header ul
+{
+  display: inline-block ;
+  vertical-align: middle;
+}
+.fl
+{
+  float: left;
+  margin-left: 200px;
+}
+.fr
+{
+  float: right;
+  margin-right: 200px;
+}
+.photo img{
+  width: 260px;
+}
+.text
+{
+  font-family: Avenir;
+  color: #fbf7f1;
+  font-size: 17px;
+  width: 365px;
+}
+.title
+{
+  font-family: Papyrus;
+  font-size: 25px;
+  font-weight: 100;
+  color: #fbf7f1;
+  transform:scaleY(2);
+}
+.button
+{
+  margin: 42px 0px 0px 12px;
+  border: none;
+  color: #fffbf6;
+  padding: 10px 13px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Avenir;
+  width:185px;
+}
+.section
+{
+  margin:0 auto;
+  width: 1119px;
+  margin-top:0;
+  height: 430px;
+}
+.textbox
+{
+  width: 400px;
+}
+.photobox
+{
+  width: 425px;
+}
+.page
+{
+  overflow: hidden;
+  height: 330px;
+  padding-top: 100px;
+}
+.databox
+{
+  width: 200px;
+  height: 200px;
+  border-radius: 6px;
+  border: 2px #d6d4cd solid;
+}
+ul.menu
+{
+  margin: 0;
+  padding: 0 20px;
+  height: 100%;
+  border-right: 1px #ECEAE6 solid;
+  border-left: 1px #ECEAE6 solid;
+}
+ul.menu li
+{
+  height: 100%;
+  margin: 0 10px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 75px;
+}
+ul.menu li a
+{
+  color: #7e7e8a;
+  font-size: 13px;
+  font-family: Arial;
+  text-decoration:none;
+}
+div.logo
+{
+  margin-top: 5px;
+  margin-left: 158px;
+  margin-right: 16px;
+}
+div.logo img
+{
+  width: 100px;
+}
+div.donate
+{
+  margin-left: 21px;
+  font-family: Arial;
+  font-size: 13px;
+  border: 1px #c5c3bf solid;
+  border-radius: 5px;
+  width: 104px;
+  height: 26px;
+  text-align: center;
+  line-height: 26px;
+}
+section.welcome
+{
+  padding: 1% 0 0 0;
+  color: white;
+  margin:0 auto;
+  background: url(../img/bk1.jpg) no-repeat bottom;
+  width: 1119px;
+  height: 543px;
+}
+section.welcome h1 {
+  clear: both;
+  margin:  17% 0 10px 0;
+  font-weight: bold;
+  font-size: 2em;
+}
+h1.text-center
+{
+  font-family: Papyrus;
+  font-weight: 100;
+  transform:scaleY(2);
+  text-align: center;
+}
+.roleoption
+{
+  margin:34px 8px;
+  display: inline-block;
+  border: 1px solid #f1f1f1;
+  padding: 8px 12px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-family: Papyrus;
+  width:165px;
+  color: #FFF;
+}
+.roleoption:hover
+{
+  border: none;
+  background-color: rgba(255,255,255,0.5);
+}
+.option
+{
+  text-align: center;
+}
+section.mission
+{
+  padding: 1% 0 0 0;
+  margin:0 auto;
+  width: 1119px;
+  height: 543px;
+  margin-top:0;
+  text-align: center;
+  background: #fcfaf6;
+  height: 430px;
+}
+.mission-title
+{
+  margin: 86px 0px 26px 3px;
+  font-family: Papyrus;
+  font-size: 35px;
+  font-weight: 100;
+  transform:scaleY(2);
+}
+.mission-text
+{
+  padding: 0px 175px;
+  font-family: Avenir;
+  font-size: 25px;
+}
+.donate-2
+{
+  display: inline-block;
+  background-color: #f6d57f;
+  border: 1px solid #f1f1f1;
+  padding: 8px 12px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-family: Papyrus;
+  width:185px;
+}
+.students
+{
+  background-color: #85c7a0;
+}
+.startlearning.button
+{
+  background-color: #6ea987;
+}
+.tutor.section
+{
+  background-color: #fcc149;
+}
+.joinus.button
+{
+  background-color: #e2ae43;
+}
+.partners.section
+{
+  background-color: #6f97c2;
+}
+.helpus.button
+{
+  background-color: #5c7ea3;
+}
+.progresspage
+{
+  padding-top: 100px;
+}
+.progress.section
+{
+  height: 570px;
+  background-color: #fbf7f1;
+}
+.progress-title.title
+{
+  text-align: center;
+  color: #3c3d47;
+}
+.databoxes
+{
+  margin-top: 60px;
+  margin-left: 143px;
+}
+.databox
+{
+  margin-left: 20px;
+  width: 250px;
+  height: 250px;
+  border-radius: 6px;
+  border: 2px #d6d4cd solid;
+  text-align: center;
+  display: inline-block;
+  line-height:50px;
+}
+.footer
+{
+  width: 1119px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #3c3d47;
+}
+.footercontext
+{
+  font-family: Avenir;
+  font-size: 15px;
+  color: #fcf9f2;
+  text-align: center;
+}
+.databox span
+{
+  display: block;
+}
+.databox span.number
+{
+  margin: 70px 0 0 0;
+  font-family: Papyrus;
+  font-size: 45px;
+
+}
+.databox span.comment
+{
+  font-family: Papyrus;
+  font-size: 15px;
+}
+.hours
+{
+  color:#85c7a0;
+}
+.sessions
+{
+  color:#fcc249;
+}
+.tutors
+{
+  color:#6f98c2;
+}
+
+.abc.section
+{
+  background-color: #a2f7f1;
+}
+.bcd.section
+{
+  background-color: #fbb7f1;
+}
