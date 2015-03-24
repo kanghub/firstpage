@@ -16,6 +16,10 @@ header ul
   display: inline-block ;
   vertical-align: middle;
 }
+a
+{
+  text-decoration: none;
+}
 .fl
 {
   float: left;
